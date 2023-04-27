@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>50817024957-dc8p15jrh3tvg1ialnjtaku1pi547s0d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.50817024957-dc8p15jrh3tvg1ialnjtaku1pi547s0d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>50817024957-0dpie2kugn7g0h6aqal1fjoc8sr4arum.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALg8dKT2xqq9eK-ZUFfJqE4bq6IPuGVic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>50817024957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.redlino</string>
+	<key>PROJECT_ID</key>
+	<string>redlino-be20a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>redlino-be20a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:50817024957:ios:ea8d32f2501160ba60c8d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://redlino-be20a.firebaseio.com</string>
+</dict>
+</plist>

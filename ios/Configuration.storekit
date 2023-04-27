@@ -1,0 +1,93 @@
+{
+  "identifier" : "88AA79C3",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "EA8092AF",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "125_coins",
+      "referenceName" : "125 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "25.99",
+      "familyShareable" : false,
+      "internalID" : "A7468971",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "500_coins",
+      "referenceName" : "500 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "129.99",
+      "familyShareable" : false,
+      "internalID" : "8833E97C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "2500_coins",
+      "referenceName" : "2500 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "D1FF74E5",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "25_coins",
+      "referenceName" : "25 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "64.99",
+      "familyShareable" : false,
+      "internalID" : "C31F7919",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "1250_coins",
+      "referenceName" : "1250 Coins",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

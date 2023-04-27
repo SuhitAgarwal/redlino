@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "50817024957",
+    "firebase_url": "https://redlino-be20a.firebaseio.com",
+    "project_id": "redlino-be20a",
+    "storage_bucket": "redlino-be20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50817024957:android:49bc6d266943b75660c8d4",
+        "android_client_info": {
+          "package_name": "com.redlino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50817024957-0dpie2kugn7g0h6aqal1fjoc8sr4arum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redlino",
+            "certificate_hash": "3394af613bcf276bf7d7f01ede0c07bba97f3d92"
+          }
+        },
+        {
+          "client_id": "50817024957-75nach9j6olct7qc7k9894njup1c4l9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redlino",
+            "certificate_hash": "c6042e2f4893496124c8c8d0f71c495a20e20c57"
+          }
+        },
+        {
+          "client_id": "50817024957-7dm3e1p10f1s9grhel8s20b7bt7gllj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redlino",
+            "certificate_hash": "bcd612f4cc481c250541fc4c5759f918aa68c8ea"
+          }
+        },
+        {
+          "client_id": "50817024957-b5k2d0f1qgfjm3ad1osi2h3c5i244apm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redlino",
+            "certificate_hash": "13d788d832636667221438a1d63aba05336f3be8"
+          }
+        },
+        {
+          "client_id": "50817024957-oq9c6m02sdjqgg8r37su5rd229jr1mqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgNFQN0gzrfQgQxbsKcuHDszBOAsCcao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50817024957-oq9c6m02sdjqgg8r37su5rd229jr1mqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50817024957-dc8p15jrh3tvg1ialnjtaku1pi547s0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.redlino",
+                "app_store_id": "1576734236"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
